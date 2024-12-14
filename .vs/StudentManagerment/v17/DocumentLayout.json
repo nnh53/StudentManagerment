@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoangnn\\Desktop\\StudentManagerment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFAD6E9-5BB9-4326-A775-8CAAB6B45B6B}|StudentManagerment\\StudentManagerment.csproj|c:\\users\\hoangnn\\desktop\\studentmanagerment\\studentmanagerment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFAD6E9-5BB9-4326-A775-8CAAB6B45B6B}|StudentManagerment\\StudentManagerment.csproj|solutionrelative:studentmanagerment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFAD6E9-5BB9-4326-A775-8CAAB6B45B6B}|StudentManagerment\\StudentManagerment.csproj|c:\\users\\hoangnn\\desktop\\studentmanagerment\\studentmanagerment\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFAD6E9-5BB9-4326-A775-8CAAB6B45B6B}|StudentManagerment\\StudentManagerment.csproj|solutionrelative:studentmanagerment\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hoangnn\\Desktop\\StudentManagerment\\StudentManagerment\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerment\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\hoangnn\\Desktop\\StudentManagerment\\StudentManagerment\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagerment\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:47:59.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\hoangnn\\Desktop\\StudentManagerment\\StudentManagerment\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "StudentManagerment\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\hoangnn\\Desktop\\StudentManagerment\\StudentManagerment\\Models\\Room.cs",
+              "RelativeToolTip": "StudentManagerment\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:47:49.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
